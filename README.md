@@ -36,7 +36,16 @@ Coming soon...
 
 ---
 
-<img align="left" alt="npitsillos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=npitsillos&show_icons=true&hide_border=true" />
+### Github Stats
+
+<img align="left" alt="npitsillos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=npitsillos&show_icons=true&hide_border=true&theme=gruvbox&" />
+
+<br />
+<br />
+ 
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npitsillos&layout=compact)](https://github.com/npitsillos/github-readme-stats)
 
 [website]: https://npitsillos.github.io
 [twitter]: https://twitter.com/npitsillos1
