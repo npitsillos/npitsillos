@@ -24,7 +24,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Pytorch" width="30px" src="https://github.com/npitsillos/npitsillos/blob/master/pytorch-logo-dark.png" />
+<img align="left" alt="Pytorch" width="35px" src="https://github.com/npitsillos/npitsillos/blob/master/pytorch-logo-dark.png" />
 
 <br />
 <br />
@@ -36,16 +36,22 @@ Coming soon...
 
 ---
 
-### Github Stats
-
+# Github Stats
 <img align="left" alt="npitsillos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=npitsillos&show_icons=true&hide_border=true&theme=gruvbox&" />
 
 <br />
 <br />
- 
-### Top Languages
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npitsillos&layout=compact)](https://github.com/npitsillos/github-readme-stats)
+# Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npitsillos&layout=compact)
 
 [website]: https://npitsillos.github.io
 [twitter]: https://twitter.com/npitsillos1
