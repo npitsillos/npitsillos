@@ -1,3 +1,4 @@
+<img src="https://now-playing-joshlmao.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 ### Hello! I'm Nikos - [npitsillos][website] 👋
 
 ## I'm an AI Researcher and Developer!
