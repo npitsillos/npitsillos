@@ -1,6 +1,6 @@
 **Now Playing**
 
-<img src="https://discord-now-playing.vercel.app/game-playing" width="256" height="64" alt="Now Playing">
+<img src="" width="256" height="64" alt="Now Playing">
 
 ### Hello! I'm Nikos - [npitsillos][website] 👋
 
