@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on helping robots observe their behaviour and improve it!
 - 🌱 I’m currently trying to learn as many things as possible. 🤣
 - 👯 I’m looking to collaborate with other people on fun projects.
-- 🥅 2020 Goals: Complete more projects using 
+- 🥅 2020 Goals: Complete more projects using new tools.
 
 ### Connect with me:
 
