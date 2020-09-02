@@ -1,6 +1,6 @@
 **Now Playing**
 
-<img src="http://ec2-18-130-229-47.eu-west-2.compute.amazonaws.com/" width="256" height="64" alt="Now Playing">
+![](http://ec2-18-130-229-47.eu-west-2.compute.amazonaws.com/)
 
 ### Hello! I'm Nikos - [npitsillos][website] 👋
 
