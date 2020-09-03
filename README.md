@@ -1,6 +1,6 @@
 **Now Playing**
 
-<img src="https://now-playing-joshlmao.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+<img src="http://ec2-18-130-229-47.eu-west-2.compute.amazonaws.com/" width="256" height="64" alt="Now Playing">
 
 ### Hello! I'm Nikos - [npitsillos][website] 👋
 
