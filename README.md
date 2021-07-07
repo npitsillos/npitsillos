@@ -35,6 +35,8 @@
 ### 📕 Latest Blog Posts
 Coming soon...
 <!-- BLOG-POST-LIST:START -->
+- [Reproducibility &amp; Replicability](/blog/2021/repricability/)
+- [MNIST Variational Autoencoder &amp; t-SNE Visualisation](/blog/2020/mnistvae/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
