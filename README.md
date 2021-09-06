@@ -34,8 +34,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A PPO+LSTM Guide](/blog/2021/recurrent-ppo/)
 - [Reproducibility &amp; Replicability](/blog/2021/repricability/)
-- [MNIST Variational Autoencoder &amp; t-SNE Visualisation](/blog/2020/mnistvae/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
