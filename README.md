@@ -35,7 +35,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A PPO+LSTM Guide](/blog/2021/recurrent-ppo/)
-- [Reproducibility &amp; Replicability](/blog/2021/repricability/)
+- [Reproducibility &amp;amp; Replicability](/blog/2021/repricability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
