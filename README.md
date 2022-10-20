@@ -41,7 +41,7 @@
 ---
 
 # Github Stats
-<img align="left" alt="npitsillos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=npitsillos&show_icons=true&hide_border=true&theme=gruvbox&" />
+<img align="left" alt="npitsillos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=npitsillos&show_icons=true&hide_border=true&theme=gruvbox&account_private=true" />
 
 <br />
 <br />
