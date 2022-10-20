@@ -55,7 +55,7 @@
 
 # Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npitsillos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npitsillos&exclude_repo=npitsillos.github.io)
 
 [website]: https://npitsillos.github.io
 [twitter]: https://twitter.com/npitsillos1
