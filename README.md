@@ -1,6 +1,3 @@
-**Now Playing**
-<img src="http://18.130.229.47:80" width="256" height="64" alt="Now Playing">
-
 ### Hello! I'm Nikos - [npitsillos][website] 👋
 
 ## I'm an AI Researcher and Developer!
