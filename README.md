@@ -17,28 +17,28 @@
 <h2>Experience</h2>
 <h3>Software Engineer @ Jina AI</h3>
 
-- Commenced a six-month internship in July 2022, swiftly transitioning to a full-
+:tada: Commenced a six-month internship in July 2022, swiftly transitioning to a full-
 time role after a mere three months, during which I operated remotely on a
 full-time basis.
 
-- Contributed as a key member of the infrastructure team to the creation of a Kubernetes
+:key: Contributed as a key member of the infrastructure team to the creation of a Kubernetes
 operator in Go, deployed within AWS. This operator managed the deployment of CRDs developed by our team.
 Additionally, worked on the development of a Rest API that received requests to deploy and retrieve the CRDs.
 
-- Worked extensively on developing and testing new features for an open-source
+:hammer: Worked extensively on developing and testing new features for an open-source
 Python CLI tool. This empowered users to deploy flows on the company’s Kuber-
 netes cluster.
 
-- Explored the integration of Dragonfly into the tech stack of the infrastructure
+:question: Explored the integration of Dragonfly into the tech stack of the infrastructure
 team to accelerate container image retrieval. Used Helm for the deployment
 and configuration of the tool and utilized Terraform to provision AWS resources
 essential for running Dragonfly.
 
-- Owned the development of a Golang CLI tool that allowed users to deploy an
+:hammer: Owned the development of a Golang CLI tool that allowed users to deploy an
 open-source Kubernetes operator and the company’s embedding models on any
 Kubernetes cluster.
 
-- Implemented CI\CD pipelines to deploy and test the Kubernetes operator and CLI
+:hammer: Implemented CI\CD pipelines to deploy and test the Kubernetes operator and CLI
 tools using Github Actions.
 
 <h2>Technologies</h2>
@@ -53,3 +53,5 @@ tools using Github Actions.
 <img src="https://simpleskill.icons.workers.dev/svg?i=amazonaws,googlecloud,microsoftazure,cloudflare" />
 <h3>Misc</h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=gnubash,linux,homeassistant" />
+
+<h3>Side Projects</h3>
