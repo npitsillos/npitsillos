@@ -1,59 +1,55 @@
-### Hello! I'm Nikos - [npitsillos][website] 👋
+<h1 align="center">Hello 👋! I'm Nikos Pitsillos</h1>
 
-## I'm an AI Researcher and Developer!
-- 🔭 I’m currently working on helping robots observe their behaviour and improve it!
-- 🌱 I’m currently trying to learn as many things as possible. 🤣
-- 👯 I’m looking to collaborate with other people on fun projects.
-- 🥅 2022 Goals: Complete more projects using new tools.
+<h2 align="center">Passionate and Curious Software Engineer</h2>
 
-### Connect with me:
+<p align="center">I have experience working on open-source projects in a dynamic and fast-paced startup environment.</p>
 
-[<img align="left" alt="npitsillos.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="npitsillos1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="npitsillos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<div align="center" style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
-<br />
+<h2>Experience</h2>
+<h3>Software Engineer @ Jina AI</h3>
 
-### Languages and Tools:
+- Commenced a six-month internship in July 2022, swiftly transitioning to a full-
+time role after a mere three months, during which I operated remotely on a
+full-time basis.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Pytorch" width="50px" src="https://github.com/npitsillos/npitsillos/blob/master/pytorch-logo-dark.png" />
+- Contributed as a key member of the infrastructure team to the creation of a Kubernetes
+operator in Go, deployed within AWS. This operator managed the deployment of CRDs developed by our team.
+Additionally, worked on the development of a Rest API that received requests to deploy and retrieve the CRDs.
 
-<br />
-<br />
+- Worked extensively on developing and testing new features for an open-source
+Python CLI tool. This empowered users to deploy flows on the company’s Kuber-
+netes cluster.
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [A PPO+LSTM Guide](/blog/2021/recurrent-ppo/)
-- [Reproducibility &amp;amp; Replicability](/blog/2021/repricability/)
-<!-- BLOG-POST-LIST:END -->
+- Explored the integration of Dragonfly into the tech stack of the infrastructure
+team to accelerate container image retrieval. Used Helm for the deployment
+and configuration of the tool and utilized Terraform to provision AWS resources
+essential for running Dragonfly.
 
----
+- Owned the development of a Golang CLI tool that allowed users to deploy an
+open-source Kubernetes operator and the company’s embedding models on any
+Kubernetes cluster.
 
-# Github Stats
-<img align="left" alt="npitsillos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=npitsillos&show_icons=true&hide_border=true&theme=gruvbox&account_private=true" />
+- Implemented CI\CD pipelines to deploy and test the Kubernetes operator and CLI
+tools using Github Actions.
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<h2>Technologies</h2>
 
-# Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npitsillos&exclude_repo=npitsillos.github.io)
-
-[website]: https://npitsillos.github.io
-[twitter]: https://twitter.com/npitsillos1
-[linkedin]: https://www.linkedin.com/in/nikolas-pitsillos-22b0abb4/
+<h3>Languages</h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=python,go,csharp,cplusplus,c" />
+<h3>Frameworks/Libraries</h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=fastapi,swagger,pytorch,scikitlearn,pandas,numpy" />
+<h3>Tools</h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=kubernetes,terraform,docker,helm,githubactions,containerd" />
+<h3>Cloud Providers</h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=amazonaws,googlecloud,microsoftazure,cloudflare" />
+<h3>Misc</h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=gnubash,linux,homeassistant" />
