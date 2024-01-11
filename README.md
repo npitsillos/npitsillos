@@ -16,6 +16,7 @@
 
 <h2>Experience</h2>
 <h3>Software Engineer @ Jina AI</h3>
+<h4>July 2022 - December 2023</h4>
 
 :tada: Commenced a six-month internship in July 2022, swiftly transitioning to a full-
 time role after a mere three months, during which I operated remotely on a
