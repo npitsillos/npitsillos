@@ -65,3 +65,7 @@ Built a Raspberry Pi Kubernetes cluster with [K3S](https://k3s.io/). It uses `in
 
 Building a custom dashboard for my Raspberry Pi Kubernetes cluster. 
 [k3S Dashboard](https://github.com/npitsillos/jarvis-k3s-dashboard)
+
+<h4>Automating Cluster Setup Using Ansible</h4>
+
+[Ansible-Pis](https://github.com/npitsillos/ansible-pis)
