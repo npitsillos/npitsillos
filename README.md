@@ -18,8 +18,9 @@
 </div>
 
 <h2>Experience</h2>
+
 <h3>Data Engineer @ TalkingMedicines</h3>
-<h2>March 2024 - Present</h2>
+<h4>March 2024 - Present</h4>
 
 :mag: Analyzed the company’s Azure infrastructure spending, identified cost-saving areas, and executed a plan reducing
 Kubernetes compute resources by 60%.
@@ -79,17 +80,17 @@ tools using Github Actions.
 <h3>Misc</h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=gnubash,linux,homeassistant" />
 
-<h3>Side Projects</h3>
+<h2>Side Projects</h2>
 
-<h4>K3S Cluster</h4>
+<h3>K3S Cluster</h3>
 
 Built a Raspberry Pi Kubernetes cluster with [K3S](https://k3s.io/). It uses `ingress-nginx` for `ingress` and `MetalLB` for bare metal `Load Balancer`, and `Longhorn` to provision volumes.
 
-<h4>K3S Custom Dashboard</h4>
+<h3>K3S Custom Dashboard</h3>
 
 Building a custom dashboard for my Raspberry Pi Kubernetes cluster. 
 [k3S Dashboard](https://github.com/npitsillos/jarvis-k3s-dashboard)
 
-<h4>Automating Cluster Setup Using Ansible</h4>
+<h3>Automating Cluster Setup Using Ansible</h3>
 
 [Ansible-Pis](https://github.com/npitsillos/ansible-pis)
