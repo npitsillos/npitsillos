@@ -76,7 +76,7 @@ tools using Github Actions.
 <h3>Tools</h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=kubernetes,terraform,docker,helm,githubactions,containerd" />
 <h3>Cloud Providers</h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=amazonaws,googlecloud,microsoftazure,cloudflare" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=amazonwebservices,googlecloud,cloudflare" />
 <h3>Misc</h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=gnubash,linux,homeassistant" />
 
