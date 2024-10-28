@@ -19,8 +19,11 @@
 
 <h2>Experience</h2>
 
+<h3>Software Engineer @ STV</h3>
+<h4>October 2024 - Present</h4>
+
 <h3>Data Engineer @ TalkingMedicines</h3>
-<h4>March 2024 - Present</h4>
+<h4>March 2024 - October 2024</h4>
 
 :mag: Analyzed the company’s Azure infrastructure spending, identified cost-saving areas, and executed a plan reducing
 Kubernetes compute resources by 60%.
