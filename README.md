@@ -75,7 +75,7 @@ tools using Github Actions.
 <h3>Languages</h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=python,go,typescript" />
 <h3>Frameworks/Libraries</h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=fastapi,nuxtdotjs,nextdotjs,swagger,vuedotjs,react,pytorch,scikitlearn,pandas,numpy" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=fastapi,nextdotjs,swagger,vuedotjs,react,pytorch,scikitlearn,pandas,numpy" />
 <h3>Tools</h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=kubernetes,terraform,docker,helm,githubactions,containerd" />
 <h3>Cloud Providers</h3>
